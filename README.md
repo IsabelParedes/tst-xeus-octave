@@ -1,3 +1,4 @@
 # Xeus-Octave-Lite demo
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://isabelparedes.github.io/tst-xeus-octave/lab)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://isabelparedes.github.io/tst-xeus-octave/lab/?path=demo.ipynb)
+
