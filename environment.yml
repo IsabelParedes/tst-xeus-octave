@@ -5,3 +5,4 @@ channels:
 dependencies:
   - xeus-octave
   - octave-onsas
+  - octave-fuzzy-logic-toolkit
